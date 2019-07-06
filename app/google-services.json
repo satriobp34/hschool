@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475463769113",
+    "firebase_url": "https://login-auth-fb4c2.firebaseio.com",
+    "project_id": "login-auth-fb4c2",
+    "storage_bucket": "login-auth-fb4c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475463769113:android:a4d7aff289a30d54",
+        "android_client_info": {
+          "package_name": "schoolid.hustle.com.hustleschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475463769113-mm7gbnepibb4cij1k3a4ees1bb9nn0l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBShyfe2XB3-3nCSTfrYA_5sZq8-RIA-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475463769113-mm7gbnepibb4cij1k3a4ees1bb9nn0l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
